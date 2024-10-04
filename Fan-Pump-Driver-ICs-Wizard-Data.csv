@@ -1,4 +1,4 @@
-Type;Part number;Status;Transfer curve;Transfer curve hover;RDSon;Supply voltage (min);Supply voltage (max);Junction temperature;Current peak;Current limit;Current limit hover;Max Inom;Over voltage protection;FG;RD;LRP;RVProt;EOS/ESD HBM;Soft start;Soft-switching;Package;Package  size;AEC-Q100;Specific feature;Product page
+Type;Part number;Status;Transfer curve;Transfer curve hover;RDSon;Supply voltage (min);Supply voltage (max);Junction temperature;Current peak;Current limit;Current limit hover;Max Inom;Over voltage protection;FG;RD;LRP;RVProt;EOS/ESD HBM;Soft start;Soft-switching;Package;Package size;AEC-Q100;Specific feature;Product page
 2-coil;US90AEVK-AAA-000-BU;Production;;;2.5;4.5;30;125;500;;;250;;✔;;✔;✔;4;;;VK;;;;https://www.melexis.com/en/product/US90A/Two-Coil-Fan-Driver-High-Voltage-Tachometer-Output
 2-coil;US90AEZE-AAA-000-RE;Production;;;2.5;4.5;30;125;500;;;250;;✔;;✔;✔;4;;;SOT-5 (ZE) ;;;;https://www.melexis.com/en/product/US90A/Two-Coil-Fan-Driver-High-Voltage-Tachometer-Output
 2-coil;US91AEVA-AAA-000-BU;Production;;;2.5;4.5;30;125;500;;;250;;;✔;✔;✔;4;;;VA;;;;https://www.melexis.com/en/product/US91A/Two-Coil-Fan-Driver-High-Voltage-Alarm-Output
