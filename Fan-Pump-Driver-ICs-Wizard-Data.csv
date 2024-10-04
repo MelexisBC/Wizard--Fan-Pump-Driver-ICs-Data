@@ -8,7 +8,8 @@ Type;Part number;Status;Transfer curve;Transfer curve hover;RDSon;Supply voltage
 1-coil;MLX90287KZC-AAA-000-RE;Production;MINSP, 10;;2.3;4.5;18;150;1200;;;450;;✔;;✔;✔;6;0.3;Slope-Slope;SO8 (ZC);;;;https://www.melexis.com/en/product/MLX90287/12V-PWM-Single-Coil-Fan-Driver
 1-coil;MLX90287KZC-AAA-000-RX;Production;MINSP, 10;;2.3;4.5;18;150;1200;;;450;;✔;;✔;✔;6;0.3;Slope-Slope;SO8 (ZC);;;;https://www.melexis.com/en/product/MLX90287/12V-PWM-Single-Coil-Fan-Driver
 1-coil;MLX90287LZC-AAA-000-RE;NRFND;MINSP, 10;;2.3;4.5;18;150;1200;;;450;;✔;;✔;✔;6;0.3;Slope-Slope;SO8 (ZC);;✔;;https://www.melexis.com/en/product/MLX90287/12V-PWM-Single-Coil-Fan-Driver
-1-coil;MLX90297KLW-AAF-109-RE;Production;MINSP, 10/20/25/30;;1.5;3;18;150;960;960;Fixed;600;;✔;;✔;;9;0.5;Slope-Flat-Slope;DFN-10 (LW);3x3x0.9;;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
+1-coil;MLX90297KLW-AAF-109-RE;Production;MINSP, 10/20/25/30;Open loop, linear curve from [10/20/25/30%, MINSP%] to [100%,100%]
+MINSP: Minimum speed;1.5;3;18;150;960;960;Fixed;600;;✔;;✔;;9;0.5;Slope-Flat-Slope;DFN-10 (LW);3x3x0.9;;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
 1-coil;MLX90297LLW-AAF-108-RE;NRFND;MINSP, 10/20/25/30;;1.5;3.3;18;150;800;800;Fixed;500;;✔;;✔;;9;0.5;Slope-Flat-Slope;DFN-10 (LW);3x3x0.9;✔;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
 1-coil;MLX90297LLW-AAF-206-RE;NRFND;MINSP, 10/20/25/30;;1.5;3.3;18;150;660;660;Fixed;450;;✔;;✔;;9;0.5;Flat Flat ;DFN-10 (LW);3x3x0.9;✔;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
 1-coil;MLX90297LLW-ABF-206-RE;NRFND;MINSP, 10/20/25/30;;1.5;3.3;18;150;660;660;Fixed;450;;;✔;✔;;9;0.5;Flat Flat ;DFN-10 (LW);3x3x0.9;✔;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
