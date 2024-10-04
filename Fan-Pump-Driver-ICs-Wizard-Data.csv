@@ -17,7 +17,7 @@ MINSP: Minimum speed";1.5;3;18;150;960;960;Fixed;600;;✔;;✔;;9;0.5;Slope-Flat
 1-coil;MLX90411KZE-BAA-028-RE;Production;10;;1.5;3.2;20;150;800;800;Fixed;450;18;✔;;✔;;6;0.5;Adapt. -1/16;SOT-6 (ZE);;;;https://www.melexis.com/en/product/MLX90411-consumer/single-coil-15-W-fan-driver
 1-coil;MLX90411KLD-BAA-029-RE;Production;10;;1.5;3.2;20;150;960;960;Fixed;600;18;✔;;✔;;6;0.5;Adapt. -1/16;DFN-6 (LD);2.5x2x0.4;;;https://www.melexis.com/en/product/MLX90411-consumer/single-coil-15-W-fan-driver
 1-coil;MLX90411KZE-BAA-046-RE;Production;10;;1.5;3.2;40;150;660;660;Fixed;450;35;✔;;✔;;6;0.5;Adapt. -1/16;SOT-6 (ZE);;;;https://www.melexis.com/en/product/MLX90411-consumer/single-coil-15-W-fan-driver
-1-coil;MLX90411KLD-BAA-049-RE;Production;10;;1.5;3.2;40;150;960;960;Fixed;600;35;✔;;✔;;6;0.5;Adapt. -1/16;DFN-6 (LD);2.5x2x0.4;;;
+1-coil;MLX90411KLD-BAA-049-RE;Production;10;;1.5;3.2;40;150;960;960;Fixed;600;35;✔;;✔;;6;0.5;Adapt. -1/16;DFN-6 (LD);2.5x2x0.4;;;https://www.melexis.com/en/product/MLX90411-consumer/single-coil-15-W-fan-driver
 1-coil;MLX90411LLD-BAA-023-RE;Production;10;;1.5;3.2;20;150;330;330;Fixed;250;18;✔;;✔;;6;1;Adapt.-2/16;DFN-6 (LD);2.5x2x0.4;✔;;
 1-coil;MLX90411LLD-BAA-029-RE;Production;10;;1.5;3.2;20;150;960;960;Fixed;450;18;✔;;✔;;6;0.125;Adapt. -1/16;DFN-6 (LD);2.5x2x0.4;✔;;
 1-coil;MLX90411LZE-BAA-043-RE;Production;10;;1.5;3.2;40;125;330;330;Fixed;250;22;✔;;✔;;6;1;Adapt.-Flat;SOT-6 (ZE);;✔;;
