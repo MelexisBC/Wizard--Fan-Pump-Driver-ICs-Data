@@ -13,11 +13,11 @@ MINSP: Minimum speed";2.3;4.5;18;150;1200;;;450;;✔;;✔;✔;6;0.3;Slope-Slope;
 MINSP: Minimum speed";2.3;4.5;18;150;1200;;;450;;✔;;✔;✔;6;0.3;Slope-Slope;SO8 (ZC);;✔;;https://www.melexis.com/en/product/MLX90287/12V-PWM-Single-Coil-Fan-Driver
 1-coil;MLX90297KLW-AAF-109-RE;Production;Open loop;[10/20/25/30%, MINSP];"linear curve from [10-20-25-30%, MINSP%] to [100%,100%] 
 MINSP: Minimum speed";1.5;3;18;150;960;960;Fixed;600;;✔;;✔;;9;0.5;Slope-Flat-Slope;DFN-10 (LW);3x3x0.9;;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
-1-coil;MLX90297LLW-AAF-108-RE;NRFND;Open loop;[10/20/25/30%, MINSP];"Open loop duty cycle control, linear curve from [10-20-25-30%, MINSP%] to [100%,100%] (with  [DUTYin, DUTYout])
+1-coil;MLX90297LLW-AAF-108-RE;NRFND;Open loop;[10/20/25/30%, MINSP];"linear curve from [10-20-25-30%, MINSP%] to [100%,100%] 
 MINSP: Minimum speed";1.5;3.3;18;150;800;800;Fixed;500;;✔;;✔;;9;0.5;Slope-Flat-Slope;DFN-10 (LW);3x3x0.9;✔;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
-1-coil;MLX90297LLW-AAF-206-RE;NRFND;Open loop;[10/20/25/30%, MINSP];"Open loop duty cycle control, linear curve from [10-20-25-30%, MINSP%] to [100%,100%] (with  [DUTYin, DUTYout])
+1-coil;MLX90297LLW-AAF-206-RE;NRFND;Open loop;[10/20/25/30%, MINSP];"linear curve from [10-20-25-30%, MINSP%] to [100%,100%] 
 MINSP: Minimum speed";1.5;3.3;18;150;660;660;Fixed;450;;✔;;✔;;9;0.5;Flat Flat ;DFN-10 (LW);3x3x0.9;✔;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
-1-coil;MLX90297LLW-ABF-206-RE;NRFND;Open loop;[10/20/25/30%, MINSP];"Open loop duty cycle control, linear curve from [10-20-25-30%, MINSP%] to [100%,100%] (with  [DUTYin, DUTYout])
+1-coil;MLX90297LLW-ABF-206-RE;NRFND;Open loop;[10/20/25/30%, MINSP];"linear curve from [10-20-25-30%, MINSP%] to [100%,100%] 
 MINSP: Minimum speed";1.5;3.3;18;150;660;660;Fixed;450;;;✔;✔;;9;0.5;Flat Flat ;DFN-10 (LW);3x3x0.9;✔;;https://www.melexis.com/en/product/MLX90297/12V-PWM-Single-Coil-Fan-Driver-Configurable-Speed-Curve
 1-coil;MLX90411KZE-BAA-026-RE;Production;Open loop|Closed loop;From [10, 10]% to [100, 100]%;"Open loop duty cycle control or closed loop speed control.
 Linear curve from [10, 10]% to [100%,100%], with programmable max. output duty or speed clamping value";1.5;3.2;20;150;660;660;Fixed;450;18;✔;;✔;;6;0.5;Adapt. -1/16;SOT-6 (ZE);;;;https://www.melexis.com/en/product/MLX90411-consumer/single-coil-15-W-fan-driver
