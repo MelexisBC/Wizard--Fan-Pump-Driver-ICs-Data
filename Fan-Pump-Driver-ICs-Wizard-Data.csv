@@ -49,9 +49,9 @@ Linear curve from [10, 10]% to [100%,100%], with programmable max. output duty o
 Linear curve from [10, 10]% to [100%,100%], with programmable max. output duty or speed clamping value";0.35;3.5;40;150;2200;2200;Fixed;1500;22;✔;;✔;;9;0.5;Adapt.-Flat;DFN-10 (LW);3x3x0.9;✔;;https://www.melexis.com/en/product/MLX90412-automotive/2A2-single-coil-fan-and-pump-driver
 1-coil;MLX90418KLD-AAA-002-RE;Production;Open loop|Closed loop;Programmable 7-slope curve;"Open loop duty cycle control or closed loop speed control.
 Programmable 7-slope transfer curve with more options.";0.135;6.7;18;150;2800;1000 to 4000;Programmable;1500;;✔;;✔;;4;Programmable;Programmable;DFN-10 (LD);3.5x3.5x0.9;;"I2C application mode, Universal windmilling, AC power loss, Hot unplug emergency brake";https://www.melexis.com/en/product/MLX90418/Single-Coil-12V-high-speed-fan-driver
-1-coil;MLX90418KLD-AAA-004-RE;Production;Open loop|Closed loop;programmable 7-slope curve;"Open loop duty cycle control or closed loop speed control.
+1-coil;MLX90418KLD-AAA-004-RE;Production;Open loop|Closed loop;Programmable 7-slope curve;"Open loop duty cycle control or closed loop speed control.
 Programmable 7-slope transfer curve with more options.";0.135;6.7;18;150;4000;1000 to 4000;Programmable;2500;;✔;;✔;;4;Programmable;Programmable;DFN-10 (LD);3.5x3.5x0.9;;"I2C application mode, Universal windmilling, AC power loss, Hot unplug emergency brake";https://www.melexis.com/en/product/MLX90418/Single-Coil-12V-high-speed-fan-driver
-1-coil;MLX90416KLD-AAA-002-RE;Production;Open loop|Closed loop;programmable 7-slope curve;"Open loop duty cycle control or closed loop speed control.
+1-coil;MLX90416KLD-AAA-002-RE;Production;Open loop|Closed loop;Programmable 7-slope curve;"Open loop duty cycle control or closed loop speed control.
 Programmable 7-slope transfer curve with more options.";0.135;6.7;27.6;150;2800;1000 to 4000;Programmable;1500;;✔;;✔;;4;Programmable;Programmable;DFN-10 (LD);3.5x3.5x0.9;;"I2C application mode";
-1-coil;MLX90416KLD-AAA-004-RE;Production;Open loop|Closed loop;programmable 7-slope curve;"Open loop duty cycle control or closed loop speed control.
+1-coil;MLX90416KLD-AAA-004-RE;Production;Open loop|Closed loop;Programmable 7-slope curve;"Open loop duty cycle control or closed loop speed control.
 Programmable 7-slope transfer curve with more options.";0.135;6.7;27.6;150;4000;1000 to 4000;Programmable;2500;;✔;;✔;;4;Programmable;Programmable;DFN-10 (LD);3.5x3.5x0.9;;"I2C application mode";
